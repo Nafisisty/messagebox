@@ -10,6 +10,7 @@
 
     <Grid>
         <TextBlock Text="home page" FontSize="40" Margin="20"></TextBlock>
-        <Button Content="go to profile page" HorizontalAlignment="Center" Click="Button_Click"></Button>
+        <TextBlock Text="Now as this is home page, if i now press windows default back button a messagebox should appear asking 'are u sure u want to exit?'. If I press yes, the app will go to login page. if no is pressed, then this page will remain." Margin="30,80,30,262" FontSize="24" TextWrapping="Wrap"></TextBlock>
+        <Button Content="go to profile page" HorizontalAlignment="Center" Click="Button_Click" Margin="109,420,118,163"></Button>
     </Grid>
 </Page>

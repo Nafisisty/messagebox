@@ -10,5 +10,6 @@
 
     <Grid>
         <TextBlock Text="profile page" FontSize="40" Margin="20"></TextBlock>
+        <TextBlock Text="This is profile page. Now pressing back button will take user to the home page. Its simple." FontSize="24" Margin="30,80" TextWrapping="Wrap"></TextBlock>
     </Grid>
 </Page>
